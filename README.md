@@ -1,4 +1,4 @@
-<h1 align="center">Go Language 🚀</h1>
+<h1 align="center">Go Language</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-1.21-blue?style=for-the-badge&logo=go" />
